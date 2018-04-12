@@ -1,2 +1,7 @@
 # drone-world
-exploring drone world
+
+## Introduction
+
+## Purpose
+
+## How To Contribute
