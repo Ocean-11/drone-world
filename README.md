@@ -15,3 +15,7 @@ As stated above ....
 This is a simple web project
 
 ## How To Contribute
+
+## Copyright
+
+2014 Git.
